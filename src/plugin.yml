@@ -1,6 +1,0 @@
-name: JoinAndQuitCustom
-version: 1.0
-author: IM4th3wDev
-main: it.im4th3w.joinandquitcustom.plugin.main.Main
-description: A simple custom join and quit message
-commands:
