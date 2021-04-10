@@ -1,0 +1,7 @@
+firstJoin_message: '&a<player> &7has entered for the first time'
+
+join_message: '&8(&a+&8) &7<player>'
+
+firstleave_message: '&4<player> &7was quit for the first time'
+
+leave_message: '&8(&4-&8) &7<player>'

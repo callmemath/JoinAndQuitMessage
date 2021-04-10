@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: src.it.im4th3w.joinandquitcustom.plugin.main.Main
+
